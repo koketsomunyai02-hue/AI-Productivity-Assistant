@@ -1,3 +1,5 @@
+## Live Application
+🚀 **Live Prototype:** [Click here to view the AI Workplace Productivity Assistant](https://ai-prductivit-assistant-km.lovable.app))
 # AI-Productivity-Assistant
 # AI-Powered Workplace Productivity Assistant
 
